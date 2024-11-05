@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>forty-client</id>
+    <version>3.8.1128.0</version>
+    <title>Forty Client</title>
+    <authors>ILE</authors>
+    <owners>ILE</owners>
+    <description>VPN forty Client.</description>
+    <tags>VPN, Forty Client, aplicación</tags>
+  </metadata>
+  <files>
+    <file src="tools\FortiClientVPN.msi" target="tools" />
+    <file src="tools\installForti.ps1" target="tools" />
+  </files>
+</package>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>my-sql</id>
+    <version>3.0.2925.0</version>
+    <title>MySql Connector</title>
+    <authors>ILE</authors>
+    <owners>ILE</owners>
+    <description>Mysql Connector .</description>
+    <tags>Conector de Mysql</tags>
+  </metadata>
+  <files>
+    <file src="tools\mysql-connector-odbc-5.1.6-winx64.msi" target="tools" />
+    <file src="tools\instalMysql.ps1" target="tools" />
+  </files>
+</package>

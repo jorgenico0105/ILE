@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>CRXI-RDC</id>
+    <version>07.058.0</version>
+    <title>CRDXI_RDC_REDISTRIBUTION</title>
+    <authors>ILE</authors>
+    <owners>ILE</owners>
+    <description>CRXI-RDC.</description>
+    <tags>CRXI-RDC, aplicación</tags>
+  </metadata>
+  <files>
+    <file src="tools\CRXI_RDC_Redistribution.msi" target="tools" />
+    <file src="tools\install.ps1" target="tools" />
+  </files>
+</package>

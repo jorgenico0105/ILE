@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>cosmos</id>
+    <version>6.0.88.4</version>
+    <title>Cosmos</title>
+    <authors>ILE</authors>
+    <owners>ILE</owners>
+    <description>Aplicacion Cosmos</description>
+    <tags>Cosmos</tags>
+  </metadata>
+  <files>
+<file src="tools\Support\*.dll" target="tools\Support" />
+<file src="tools\Support\*.BAT" target="tools\Support" />
+<file src="tools\Support\*.exe" target="tools\Support" />
+<file src="tools\Support\*.ocx" target="tools\Support" />
+<file src="tools\installCosmos.ps1" target="tools" />
+
+  </files>
+</package>

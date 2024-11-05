@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>kmsauto</id>
+    <version>1.0.0</version>
+    <title>App1</title>
+    <authors>ILE</authors>
+    <owners>ILE</owners>
+    <description>Aplicación 1 con archivo .ini.</description>
+    <tags>app1 ini</tags>
+  </metadata>
+  <files>
+    <file src="tools\KMSAuto++.exe" target="tools" />
+    <file src="tools\KMSAuto++.ini" target="tools" />
+    <file src="tools\installKMSAuto.ps1" target="tools" />
+  </files>
+</package>
